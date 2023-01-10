@@ -1,0 +1,41 @@
+/* Style For Part 1 Doc */
+
+#third {
+    color: red;
+}
+
+.from4to6 {
+    color: orangered;
+}
+
+[target] {
+    border: 3px dotted green;
+}
+
+
+a:hover {
+    color: yellowgreen;
+}
+
+a:link {
+    color: aqua;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:active {
+    color: gray;
+}
+
+p::first-letter {
+    color: dodgerblue;
+    font-size: 40px;
+}
+
+p::first-line {
+    color: orange;
+    font-size: 16px;
+}
+

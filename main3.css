@@ -1,0 +1,5 @@
+/* Select immediate children of an element */
+
+div > p {
+    color: red;
+}

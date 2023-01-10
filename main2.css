@@ -1,0 +1,4 @@
+/* Select all children of an element */
+div  p {
+    color: red;
+}

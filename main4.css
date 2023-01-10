@@ -1,0 +1,5 @@
+/* select all siblings of the element */
+
+div ~ p {
+    color: red;
+}
